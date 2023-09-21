@@ -1,12 +1,13 @@
 @header0: header0;
 
 .@{header0} {
-  background: @template-nav-bg-color;
+  background: #30665b;
   width: 100%;
   z-index: 1;
   box-shadow: 0 5px 8px fade(#000, 15);
   position: relative;
   top: 0;
+  opacity: 0.8;
 
   .home-page {
     padding: 0 24px;
@@ -15,8 +16,11 @@
   &-logo {
     display: inline-block;
     position: relative;
-    width: 150px;
-    line-height: 64px;
+    width: 90px;
+    left:-15px;
+    top: -15px;
+    line-height: 50px;
+    max-height: 60px;
 
     & img {
       vertical-align: middle;
@@ -34,6 +38,7 @@
     .ant-menu {
       line-height: 62px;
       height: 64px;
+      background: #30665b;
 
       a {
         display: block;
@@ -116,6 +121,7 @@
           padding: 0;
         }
       }
+
       .item {
         &-sub-item {
           padding: 8px 0;
@@ -179,6 +185,7 @@
         pointer-events: auto;
       }
     }
+
     &-item-block {
       height: 40px;
       line-height: 40px;

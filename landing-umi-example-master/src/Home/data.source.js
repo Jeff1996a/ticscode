@@ -4,7 +4,7 @@ export const Nav00DataSource = {
   page: { className: 'home-page' },
   logo: {
     className: 'header0-logo',
-    children: 'https://os.alipayobjects.com/rmsportal/mlcYmsRilwraoAe.svg',
+    children: 'https://github.com/Jeff1996a/ticscode/blob/main/landing-umi-example-master/src/tc2-removebg-preview.png?raw=true',
   },
   Menu: {
     className: 'header0-menu',
@@ -102,7 +102,7 @@ export const Banner00DataSource = {
   textWrapper: { className: 'banner0-text-wrapper' },
   title: {
     className: 'banner0-title',
-    children: 'https://zos.alipayobjects.com/rmsportal/HqnZZjBjWRbjyMr.png',
+    children: 'https://github.com/Jeff1996a/ticscode/blob/main/landing-umi-example-master/src/tc2-removebg-preview.png?raw=true',
   },
   content: {
     className: 'banner0-content',
