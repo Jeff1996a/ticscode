@@ -102,7 +102,7 @@ export const Banner00DataSource = {
   textWrapper: { className: 'banner0-text-wrapper' },
   title: {
     className: 'banner0-title',
-    children: 'https://github.com/Jeff1996a/ticscode/blob/main/landing-umi-example-master/src/robot-fondo-removebg-preview.png?raw=true',
+    children: 'https://github.com/Jeff1996a/ticscode/blob/main/landing-umi-example-master/src/e-removebg-preview.png?raw=true',
   },
   content: {
     className: 'banner0-content',
